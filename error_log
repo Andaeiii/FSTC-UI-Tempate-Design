@@ -1,0 +1,74 @@
+[12-Oct-2014 11:39:15 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'ordondo'@'localhost' (using password: YES) in /home/tedxjabi/public_html/old/classes/dbase.php on line 11
+[12-Oct-2014 11:39:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'tedxjabi'@'localhost' (using password: NO) in /home/tedxjabi/public_html/old/classes/dbase.php on line 67
+[12-Oct-2014 11:39:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/old/classes/dbase.php on line 67
+[12-Oct-2014 11:39:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'tedxjabi'@'localhost' (using password: NO) in /home/tedxjabi/public_html/old/classes/dbase.php on line 67
+[12-Oct-2014 11:39:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/old/classes/dbase.php on line 67
+[12-Oct-2014 11:39:18 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'ordondo'@'localhost' (using password: YES) in /home/tedxjabi/public_html/old/classes/dbase.php on line 11
+[12-Oct-2014 11:39:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'tedxjabi'@'localhost' (using password: NO) in /home/tedxjabi/public_html/old/classes/dbase.php on line 67
+[12-Oct-2014 11:39:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/old/classes/dbase.php on line 67
+[12-Oct-2014 11:39:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'tedxjabi'@'localhost' (using password: NO) in /home/tedxjabi/public_html/old/classes/dbase.php on line 67
+[12-Oct-2014 11:39:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/old/classes/dbase.php on line 67
+[12-Oct-2014 11:55:19 America/Chicago] PHP Fatal error:  Class 'DB' not found in /home/tedxjabi/public_html/old/email.php on line 20
+[13-Oct-2014 05:32:33 America/Chicago] PHP Fatal error:  Class 'DB' not found in /home/tedxjabi/public_html/email.php on line 30
+[21-Oct-2014 08:28:01 America/Chicago] PHP Fatal error:  Class 'DB' not found in /home/tedxjabi/public_html/email.php on line 27
+[21-Oct-2014 08:30:43 America/Chicago] PHP Fatal error:  Class 'DB' not found in /home/tedxjabi/public_html/email.php on line 28
+[29-Oct-2014 11:46:31 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 11:46:31 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:31 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:35 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 11:46:35 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:35 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:35 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:35 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:43 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 11:46:43 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:43 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:46:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:47:23 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 11:47:23 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:47:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:47:23 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 11:47:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:01:03 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 12:01:03 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:01:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:01:03 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:01:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:01:12 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 12:01:12 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:01:12 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:01:12 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:01:12 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:02:31 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 12:02:31 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:02:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:02:31 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:02:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:08:38 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 12:08:38 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:08:38 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:08:38 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:08:38 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:09:35 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 12:09:35 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:09:35 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:09:35 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:09:35 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:10:34 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 12:10:34 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:10:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:10:34 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 12:10:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 13:22:19 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 13:22:19 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 13:22:19 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 13:22:19 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 13:22:19 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 13:22:22 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 11
+[29-Oct-2014 13:22:22 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 13:22:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 13:22:22 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tedxjabi/public_html/classes/dbase.php on line 66
+[29-Oct-2014 13:22:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tedxjabi/public_html/classes/dbase.php on line 66
